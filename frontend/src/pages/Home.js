@@ -1,16 +1,7 @@
-import home from '../pictures/home.jpg'
-import School from '../pictures/school-icon.png';
-import Exam from '../pictures/exam-icon.png';
-import { Link } from 'react-router-dom';
-import useFetch from '../useFetch';
-
 import newImg from '../pictures/home.jpg'
 import Study from '../pictures/success.png';
 import Practice from '../pictures/virtual-class.png';
 import Grow from '../pictures/plant.png';
-import Article from '../pictures/school-icon.png';
-import Quiz from '../pictures/exam-icon.png';
-import Guy from '../pictures/guy.jpg';
 
 const Home = () => {
 
