@@ -82,20 +82,6 @@
         "style": "#f99453",
         "image": "https://www.seekpng.com/png/detail/66-669837_kitchenware-animation-cartoon-kitchen-cabinets-cartoon.png",
         "id": 2
-        },
-        {
-        "title": "Dinero",
-        "icon": "./img/dinero-quiz.png",
-        "style": "#3ee4c4",
-        "image": "https://media.istockphoto.com/vectors/money-illustration-big-stack-of-dollars-and-golden-coins-wealth-and-vector-id1279341226?k=20&m=1279341226&s=612x612&w=0&h=XU-lmE0VunZSHBXYBk5xBnNT78Bd-QMr4uRlTFD9UAA=",
-        "id": 3
-        },
-        {
-        "title": "Familia",
-        "icon": "./img/familia-quiz.png",
-        "style": "#1d9cb8",
-        "image": "https://i.fbcd.co/products/resized/resized-750-500/a0c0510041c1e96c45791e0846e1b77829f6bcc6d2398e42e88d868dd5217aff.jpg",
-        "id": 4
         }
     ],
     "articles": [
