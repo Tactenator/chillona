@@ -1,0 +1,107 @@
+{
+    "Saludos%20y%20Despidas": [
+        {
+          "english": "Hello",
+          "options": [
+            "Hola",
+            "Adios",
+            "Buenos dias",
+            "Bienvenidos"
+          ],
+          "correct": "Hola",
+          "id": "1"
+        },
+        {
+          "english": "Good bye",
+          "options": [
+            "Hasta luego",
+            "Adios",
+            "Buenos tardes",
+            "Bienvenidos"
+          ],
+          "correct": "Adios",
+          "id": "2"
+        },
+        {
+          "english": "Good Morning",
+          "options": [
+            "Hola",
+            "Hasta luego",
+            "Buenos dias",
+            "Que tal?"
+          ],
+          "correct": "Buenos dias",
+          "id": "3"
+        }
+    ], 
+    "En%20la%20Cocina": [
+      {
+        "english": "Kitchen",
+        "options": [
+          "Cocinar",
+          "Cocina",
+          "Dormitorio",
+          "Sala"
+        ],
+        "correct": "Cocina",
+        "id": "1"
+      },
+      {
+        "english": "Plate",
+        "options": [
+          "Tenedor",
+          "Cuchara",
+          "Plato",
+          "Olla"
+        ],
+        "correct": "Plato",
+        "id": "2"
+      },
+      {
+        "english": "Sink",
+        "options": [
+          "Lavamanos",
+          "Horno",
+          "Sartin",
+          "Lavaplatos"
+        ],
+        "correct": "Lavamanos",
+        "id": "3"
+      }
+    ],
+    "Dinero": [
+        {
+          "english": "Coins",
+          "options": [
+            "Moneda",
+            "Dólar",
+            "Effectivo",
+            "Aduanas"
+          ],
+          "correct": "Moneda",
+          "id": "1"
+        },
+        {
+          "english": "Dollar",
+          "options": [
+            "Cajero",
+            "Dólar",
+            "Moneda",
+            "Dinero en efectivo"
+          ],
+          "correct": "Dólar",
+          "id": "2"
+        },
+        {
+          "english": "Cash",
+          "options": [
+            "Moneda",
+            "Dólar",
+            "Dinero en efectivo",
+            "Cajero"
+          ],
+          "correct": "Dinero en efectivo",
+          "id": "3"
+        }
+    ]
+}
