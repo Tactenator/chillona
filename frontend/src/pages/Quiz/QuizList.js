@@ -6,7 +6,7 @@ const QuizList = ({ quiz }) => {
         <div className="article-list">
         {quiz.map(quizzes => ( 
             <div key={quizzes._id}>
-                <Link to={`/quiz/${quizzes._id}`}>
+                <Link to={`/quiz/${quizzes.title}`}>
                     <div style={{backgroundColor: `${quizzes.style}` }} className="articles-preview">
                         <div style={{backgroundColor: `${quizzes.style}` }} className="article-image-container">
                             <img style={{backgroundColor: `${quizzes.style}` }}className="article-icon" src={ quizzes.icon }  alt="article"></img>

@@ -73,20 +73,20 @@
       {
         "title": "Saludos y Despidas",
         "icon": "./img/saludos-quiz.png",
-        "style": "#fcd5ce",
+        "style": "#75b81d",
         "id": 1
       },
       {
         "title": "En la Cocina",
         "icon": "./img/cocina-quiz.png",
-        "style": "#c1e8f7",
+        "style": "#f99453",
         "image": "https://www.seekpng.com/png/detail/66-669837_kitchenware-animation-cartoon-kitchen-cabinets-cartoon.png",
         "id": 2
       },
       {
         "title": "Dinero",
         "icon": "./img/dinero-quiz.png",
-        "style": "#ffd7ba",
+        "style": "#3ee4c4",
         "image": "https://media.istockphoto.com/vectors/money-illustration-big-stack-of-dollars-and-golden-coins-wealth-and-vector-id1279341226?k=20&m=1279341226&s=612x612&w=0&h=XU-lmE0VunZSHBXYBk5xBnNT78Bd-QMr4uRlTFD9UAA=",
         "id": 3
       }
