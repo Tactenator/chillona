@@ -275,6 +275,539 @@
           }
         ]
         
+      },
+      {
+        "id": "3",
+        "title": "Familia",
+        "icon": "./img/family.png",
+        "style": "#D0F4DE",
+        "image": "https://www.hollywoodreporter.com/wp-content/uploads/2019/05/thecasagrandes_press_03_copy.jpg",
+        "description": "Palabras por la familia",
+        "vocab":
+        [
+          {
+            "spanish": "Madre", 
+            "english": "Mother",
+            "sounds": "Ma - thur"
+          },
+          {
+            "spanish": "Padre", 
+            "english": "Father",
+            "sounds": "Fa-thur"
+          },
+          {
+            "spanish": "Hermano", 
+            "english": "Brother",
+            "sounds": "Bra - thur"
+          },
+          {
+            "spanish": "Hermano", 
+            "english": "Sister",
+            "sounds": "Sys - tur"
+          },
+          {
+            "spanish": "Suegra", 
+            "english": "Mother-in-law",
+            "sounds": "Ma-thur-en-lah"
+          },
+          {
+            "spanish": "Father-in-law", 
+            "english": "Suegro",
+            "sounds": "Fa-thur-en-lah"
+          },
+          {
+            "spanish": "Cuñado", 
+            "english": "Brother-in-law",
+            "sounds": "Bra-thur-en-lah"
+          },
+          {
+            "spanish": "Cuñada", 
+            "english": "Sister-in-law",
+            "sounds": "Sys-tur-en-lah"
+          },
+          {
+            "spanish": "Abuela", 
+            "english": "Grandmother",
+            "sounds": "Grand-mah-thur"
+          },
+          {
+            "spanish": "Abuelo", 
+            "english": "Grandfather",
+            "sounds": "Grand-fah-thur"
+          },
+          {
+            "spanish": "Tia", 
+            "english": "Aunt",
+            "sounds": "Ant"
+          },
+          {
+            "spanish": "Tio", 
+            "english": "Uncle",
+            "sounds": "Ancl"
+          },
+          {
+            "spanish": "Primo/Prima", 
+            "english": "Cousin",
+            "sounds": "Ka - sen"
+          }
+        ]
+      },
+      {
+        "id": "4",
+        "title": "Dinero",
+        "icon": "./img/money.png",
+        "style": "#ffd7ba",
+        "image": "https://wallpaperaccess.com/full/1651747.jpg",
+        "description": "Palabras para describir dinero",
+        "vocab":
+        [
+          {
+            "spanish": "Monedas", 
+            "english": "Coins",
+            "sounds": "Koi-ns"
+          },
+          {
+            "spanish": "Dinero en efectivo", 
+            "english": "Cash",
+            "sounds": "Kaa-sh"
+          },
+          {
+            "spanish": "Banco", 
+            "english": "Bank",
+            "sounds": "Baynk"
+          },
+          {
+            "spanish": "ATM", 
+            "english": "Cajero",
+            "sounds": "Ay-Ti-Em"
+          },
+          {
+            "spanish": "Cartera", 
+            "english": "Wallet",
+            "sounds": "Wah-let"
+          },
+          {
+            "spanish": "Debos", 
+            "english": "Debt",
+            "sounds": "Deht"
+          },
+          {
+            "spanish": "Tarjeta de Debito", 
+            "english": "Debit Card",
+            "sounds": "Debet Kahrd"
+          },
+          {
+            "spanish": "Tarjeta de Credito", 
+            "english": "Credit Card",
+            "sounds": "Cre-det Kahrd"
+          }
+        ]
+      },
+      {
+        "id": "5",
+        "title": "Dias, Meses, y anos",
+        "icon": "./img/calendar.png",
+        "style": "#fcd5ce",
+        "image": "https://static.vecteezy.com/system/resources/previews/002/503/060/original/flat-simple-wall-calendar-design-style-cartoon-illustration-drawing-vector.jpg",
+        "description": "El calendario",
+        "vocab":
+        [
+          {
+            "spanish": "Domingo", 
+            "english": "Sunday",
+            "sounds": "San-dei"
+          },
+          {
+            "spanish": "Lunes", 
+            "english": "Monday",
+            "sounds": "Man-dei"
+          },
+          {
+            "spanish": "Martes", 
+            "english": "Tuesday",
+            "sounds": "Tus-dei"
+          },
+          {
+            "spanish": "Mierecoles", 
+            "english": "Wednesday",
+            "sounds": "Wens-dei"
+          },
+          {
+            "spanish": "Jueves", 
+            "english": "Thursday",
+            "sounds": "Thurs-dei"
+          },
+          {
+            "spanish": "Viernes", 
+            "english": "Friday",
+            "sounds": "Frai-dei"
+          },
+          {
+            "spanish": "Sabado", 
+            "english": "Saturday",
+            "sounds": "Sa-tur-dei"
+          },
+          {
+            "spanish": "Día", 
+            "english": "Day",
+            "sounds": "Dei"
+          },
+          {
+            "spanish": "Semana", 
+            "english": "Week",
+            "sounds": "Wik"
+          },
+          {
+            "spanish": "Mes", 
+            "english": "Month",
+            "sounds": "Mahnth"
+          },
+          {
+            "spanish": "Año", 
+            "english": "Year",
+            "sounds": "Yir"
+          },
+          {
+            "spanish": "Enero", 
+            "english": "January",
+            "sounds": "ghan-iu-eri"
+          },
+          {
+            "spanish": "Febrero", 
+            "english": "February",
+            "sounds": "Feb-ru-eri"
+          },
+          {
+            "spanish": "Marzo", 
+            "english": "March",
+            "sounds": "Mahrch"
+          },
+          {
+            "spanish": "Abril", 
+            "english": "April",
+            "sounds": "Eprul"
+          },
+          {
+            "spanish": "Mayo", 
+            "english": "May",
+            "sounds": "Mei"
+          },
+          {
+            "spanish": "Junio", 
+            "english": "June",
+            "sounds": "Ghun"
+          },
+          {
+            "spanish": "Julio", 
+            "english": "July",
+            "sounds": "Ghulai"
+          },
+          {
+            "spanish": "Agosto", 
+            "english": "August",
+            "sounds": "Au-gust"
+          },
+          {
+            "spanish": "Septiembre", 
+            "english": "September",
+            "sounds": "Sep-tem-br"
+          },
+          {
+            "spanish": "Octubre", 
+            "english": "October",
+            "sounds": "Awk-to-br"
+          },
+          {
+            "spanish": "Noviembre", 
+            "english": "November",
+            "sounds": "No-vem-br"
+          },
+          {
+            "spanish": "Deciembre", 
+            "english": "December",
+            "sounds": "De-cem-br"
+          }
+        ]
+      },
+      {
+        "id": "6",
+        "title": "Verbos Basicos",
+        "icon": "./img/verbs.png",
+        "style": "#c1e8f7",
+        "image": "https://previews.123rf.com/images/rms164/rms1641802/rms164180200020/95207560-%EC%A0%8A%EC%9D%80-%EC%8B%A4%ED%96%89-%EB%A7%8C%ED%99%94-%EC%96%B4%EB%A6%B0%EC%9D%B4%EC%9D%98-%EA%B7%B8%EB%A3%B9%EC%9E%85%EB%8B%88%EB%8B%A4-.jpg",
+        "description": "Un introducion a los verbos basicos en ingles",
+        "vocab":
+        [
+          {
+            "spanish": "Querer", 
+            "english": "Want",
+            "sounds": "Wha-nt"
+          },
+          {
+            "spanish": "Poder", 
+            "english": "Can",
+            "sounds": "Khan"
+          },
+          {
+            "spanish": "Caminar", 
+            "english": "Walk",
+            "sounds": "Wok"
+          },
+          {
+            "spanish": "Ir", 
+            "english": "Go",
+            "sounds": "Go"
+          },
+          {
+            "spanish": "Manejar", 
+            "english": "Drive",
+            "sounds": "Draive"
+          },
+          {
+            "spanish": "Tener", 
+            "english": "Have",
+            "sounds": "Hav"
+          },
+          {
+            "spanish": "Hablar", 
+            "english": "Talk/Speak",
+            "sounds": "Tok/Spik"
+          },
+          {
+            "spanish": "Decir", 
+            "english": "Say",
+            "sounds": "Sei"
+          },
+          {
+            "spanish": "Gastar", 
+            "english": "Spend",
+            "sounds": "Spend"
+          },
+          {
+            "spanish": "Sentarse", 
+            "english": "Sit",
+            "sounds": "Set"
+          }
+        ]
+      },
+      {
+        "id": "7",
+        "title": "Colores",
+        "icon": "./img/colors.png",
+        "style": "#D0F4DE",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Colouring_pencils.jpg/800px-Colouring_pencils.jpg",
+        "description": "Los colores",
+        "vocab":
+        [
+          {
+            "spanish": "Rojo", 
+            "english": "Red",
+            "sounds": "Red"
+          },
+          {
+            "spanish": "Azul", 
+            "english": "Blue",
+            "sounds": "Blu"
+          },
+          {
+            "spanish": "Verde", 
+            "english": "Green",
+            "sounds": "Grin"
+          },
+          {
+            "spanish": "Negro", 
+            "english": "Black",
+            "sounds": "Blak"
+          },
+          {
+            "spanish": "Amarillo", 
+            "english": "Yellow",
+            "sounds": "Llelo"
+          },
+          {
+            "spanish": "Naranja", 
+            "english": "Orange",
+            "sounds": "Or-ang"
+          },
+          {
+            "spanish": "Blanco", 
+            "english": "White",
+            "sounds": "Whait"
+          },
+          {
+            "spanish": "Purpura", 
+            "english": "Purple",
+            "sounds": "Pur-ple"
+          },
+          {
+            "spanish": "Castaño", 
+            "english": "Brown",
+            "sounds": "Br-own"
+          },
+          {
+            "spanish": "Rosa", 
+            "english": "Pink",
+            "sounds": "Pink"
+          }
+        ]
+      },
+      {
+        "id": "8",
+        "title": "Partes del Cuerpo",
+        "icon": "./img/anatomy.png",
+        "style": "#ffd7ba",
+        "image": "https://i.pinimg.com/736x/33/ef/e9/33efe9d57ab057a3ab2771843d9c9cfa.jpg",
+        "description": "Los partes del cuerpo",
+        "vocab":
+        [
+          {
+            "spanish": "Ojo", 
+            "english": "Eye",
+            "sounds": "Hay"
+          },
+          {
+            "spanish": "Mano", 
+            "english": "Hand",
+            "sounds": "Jand"
+          },
+          {
+            "spanish": "Cabeza", 
+            "english": "Head",
+            "sounds": "Jed"
+          },
+          {
+            "spanish": "Dedo", 
+            "english": "Finger",
+            "sounds": "Fin-gur"
+          },
+          {
+            "spanish": "Brazo", 
+            "english": "Arm",
+            "sounds": "Ahrm"
+          },
+          {
+            "spanish": "Dientes", 
+            "english": "Teeth",
+            "sounds": "Tith"
+          },
+          {
+            "spanish": "Dedos de pies", 
+            "english": "Toes",
+            "sounds": "Tows"
+          },
+          {
+            "spanish": "Pelo", 
+            "english": "Hair",
+            "sounds": "Her"
+          }
+        ]
+      },
+      {
+        "id": "9",
+        "title": "Pronombres",
+        "icon": "./img/pronouns.png",
+        "style": "#fcd5ce",
+        "image": "https://image.shutterstock.com/image-vector/illustration-stickman-kids-speaking-pronouns-260nw-773123359.jpg",
+        "description": "Las palabras para describir otras personas",
+        "vocab":
+        [
+          {
+            "spanish": "Yo", 
+            "english": "I",
+            "sounds": "Hai"
+          },
+          {
+            "spanish": "Tú", 
+            "english": "You",
+            "sounds": "Iu"
+          },
+          {
+            "spanish": "Él", 
+            "english": "He/Him",
+            "sounds": "Ji/Jem"
+          },
+          {
+            "spanish": "Ella", 
+            "english": "She/Her",
+            "sounds": "Shi/Jur"
+          },
+          {
+            "spanish": "Ellos/Ellas", 
+            "english": "They/Them",
+            "sounds": "Thei/Them"
+          },
+          {
+            "spanish": "Nosotros", 
+            "english": "We",
+            "sounds": "Wi"
+          }
+        ]
+      },
+      {
+        "id": "10",
+        "title": "Frases Común",
+        "icon": "./img/phrases.png",
+        "style": "#c1e8f7",
+        "image": "https://cdn.boldomatic.com/content/post/giZlCA/Hello-how-are-you?size=800",
+        "description": "Frases comun que puedes usar cada dia",
+        "vocab":
+        [
+          {
+            "spanish": "Cómo estás?", 
+            "english": "How are you?",
+            "sounds": "Jow-r-iu"
+          },
+          {
+            "spanish": "Gracias", 
+            "english": "Thank you",
+            "sounds": "Theink-iu"
+          },
+          {
+            "spanish": "Lo siento", 
+            "english": "I'm sorry",
+            "sounds": "Haym sawri"
+          },
+          {
+            "spanish": "De nada!", 
+            "english": "You're welcome!",
+            "sounds": "Iur welcahm"
+          },
+          {
+            "spanish": "Buenos días", 
+            "english": "Good morning!",
+            "sounds": "Gud-mor-ning"
+          },
+          {
+            "spanish": "Me llamo...", 
+            "english": "My name is...",
+            "sounds": "May naime es..."
+          },
+          {
+            "spanish": "Mucho gusto!", 
+            "english": "Nice to meet you!",
+            "sounds": "Naice-tu-mit-iu"
+          },
+          {
+            "spanish": "de donde eres?", 
+            "english": "Where are you from?",
+            "sounds": "Weir r iu frahm?"
+          },
+          {
+            "spanish": "Hasta luego!", 
+            "english": "See you later!",
+            "sounds": "Si iu laitur"
+          },
+          {
+            "spanish": "No hablo ingles", 
+            "english": "I don't speak English",
+            "sounds": "Hay dont spik inglesh"
+          },
+          {
+            "spanish": "Podrias hablar más lenta?", 
+            "english": "Could you speak slower?",
+            "sounds": "Kud iu spik slo-ur"
+          }
+        ]
       }
     ]
 }
