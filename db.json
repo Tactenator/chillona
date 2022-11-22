@@ -89,13 +89,6 @@
         "style": "#3ee4c4",
         "image": "https://media.istockphoto.com/vectors/money-illustration-big-stack-of-dollars-and-golden-coins-wealth-and-vector-id1279341226?k=20&m=1279341226&s=612x612&w=0&h=XU-lmE0VunZSHBXYBk5xBnNT78Bd-QMr4uRlTFD9UAA=",
         "id": 3
-      },
-      {
-        "title": "Familia",
-        "icon": "./img/familia-quiz.png",
-        "style": "#1d9cb8",
-        "image": "https://i.fbcd.co/products/resized/resized-750-500/a0c0510041c1e96c45791e0846e1b77829f6bcc6d2398e42e88d868dd5217aff.jpg",
-        "id": 4
       }
     ],
     "articles": [
@@ -302,57 +295,7 @@
             "sounds": "Ka - sen"
           }
         ]
-      },
-      {
-        "id": "4",
-        "title": "Dinero",
-        "icon": "./img/money.png",
-        "style": "#ffd7ba",
-        "image": "https://wallpaperaccess.com/full/1651747.jpg",
-        "description": "Palabras para describir dinero",
-        "vocab":
-        [
-          {
-            "spanish": "Monedas", 
-            "english": "Coins",
-            "sounds": "Koi-ns"
-          },
-          {
-            "spanish": "Dinero en efectivo", 
-            "english": "Cash",
-            "sounds": "Kaa-sh"
-          },
-          {
-            "spanish": "Banco", 
-            "english": "Bank",
-            "sounds": "Baynk"
-          },
-          {
-            "spanish": "ATM", 
-            "english": "Cajero",
-            "sounds": "Ay-Ti-Em"
-          },
-          {
-            "spanish": "Cartera", 
-            "english": "Wallet",
-            "sounds": "Wah-let"
-          },
-          {
-            "spanish": "Debos", 
-            "english": "Debt",
-            "sounds": "Deht"
-          },
-          {
-            "spanish": "Tarjeta de Debito", 
-            "english": "Debit Card",
-            "sounds": "Debet Kahrd"
-          },
-          {
-            "spanish": "Tarjeta de Credito", 
-            "english": "Credit Card",
-            "sounds": "Cre-det Kahrd"
-          }
-        ]
       }
+      
     ]
 }
