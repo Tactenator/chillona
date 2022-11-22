@@ -30,7 +30,7 @@ const Quiz = () => {
    
 
     const fetchData = async () => {
-        const response = await fetch('http://localhost:4000/quiz/' + id);
+        const response = await fetch('https://my-json-server.typicode.com/tactenator/chillona/' + id);
         const data = await response.json(); 
         console.log(data);
         setLength(data.correctArray.length);
