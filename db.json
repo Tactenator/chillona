@@ -69,20 +69,83 @@
         "id": "3"
       }
     ],
-  "QuizList": [
-        {
+    "QuizList": [
+      {
         "title": "Saludos y Despidas",
         "icon": "./img/saludos-quiz.png",
         "style": "#75b81d",
         "id": 1
-        },
-        {
+      },
+      {
         "title": "En la Cocina",
         "icon": "./img/cocina-quiz.png",
         "style": "#f99453",
         "image": "https://www.seekpng.com/png/detail/66-669837_kitchenware-animation-cartoon-kitchen-cabinets-cartoon.png",
         "id": 2
-        }
+      },
+      {
+        "title": "Dinero",
+        "icon": "./img/dinero-quiz.png",
+        "style": "#3ee4c4",
+        "image": "https://media.istockphoto.com/vectors/money-illustration-big-stack-of-dollars-and-golden-coins-wealth-and-vector-id1279341226?k=20&m=1279341226&s=612x612&w=0&h=XU-lmE0VunZSHBXYBk5xBnNT78Bd-QMr4uRlTFD9UAA=",
+        "id": 3
+      },
+      {
+        "title": "Familia",
+        "icon": "./img/familia-quiz.png",
+        "style": "#1d9cb8",
+        "image": "https://i.fbcd.co/products/resized/resized-750-500/a0c0510041c1e96c45791e0846e1b77829f6bcc6d2398e42e88d868dd5217aff.jpg",
+        "id": 4
+      },
+      {
+        "title": "Verbos Basicos",
+        "icon": "./img/verbos-quiz.png",
+        "style": "#ffd9a4",
+        "image": "https://w7.pngwing.com/pngs/60/328/png-transparent-silhouette-jumping-jump-animals-hand-cartoon.png",
+        "id": 5
+      },
+      {
+        "title": "Días de la semana",
+        "icon": "./img/dias-quiz.png",
+        "style": "#c1e8f7",
+        "image": "https://image.shutterstock.com/image-vector/weekday-names-set-text-colorful-260nw-714244117.jpg",
+        "id": 6
+      },
+      {
+        "title": "Los Meses",
+        "icon": "./img/meses-quiz.png",
+        "style": "#3cd7e7",
+        "image": "https://image.shutterstock.com/image-vector/calendar-cartoon-vector-illustration-hand-260nw-357444302.jpg",
+        "id": 7
+      },
+      {
+        "title": "Colores",
+        "icon": "./img/colores-quiz.png",
+        "style": "#fee9e9",
+        "image": "https://neilpatel.com/wp-content/uploads/2017/08/colors.jpg",
+        "id": 8
+      },
+      {
+        "title": "Partes de Cuerpo",
+        "icon": "./img/partes-quiz.png",
+        "style": "#beeafc",
+        "image": "https://st4.depositphotos.com/9791856/23899/v/1600/depositphotos_238993944-stock-illustration-human-body-parts-different-parts.jpg",
+        "id": 9
+      },
+      {
+        "title": "Pronombres",
+        "icon": "./img/pronombres-quiz.png",
+        "style": "#d19871",
+        "image": "https://image.shutterstock.com/image-vector/illustration-stickman-kids-speaking-pronouns-260nw-773123359.jpg",
+        "id": 10
+      },
+      {
+        "title": "Frases Común",
+        "icon": "./img/frases-quiz.png",
+        "style": "#586c7c",
+        "image": "https://us.123rf.com/450wm/unitonevector/unitonevector1904/unitonevector190403157/123089259-man-woman-conversation-flat-vector-illustration-pretty-lady-having-discussion-with-handsome-boy-eleg.jpg?ver=6",
+        "id": 11
+      }
     ],
     "articles": [
       {
