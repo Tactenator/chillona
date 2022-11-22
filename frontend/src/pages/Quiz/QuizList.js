@@ -7,11 +7,11 @@ const QuizList = ({ quiz }) => {
         {quiz.map(quizzes => ( 
             <div key={quizzes._id}>
                 <Link to={`/quiz/${quizzes._id}`}>
-                    <div style={{backgroundColor: `${quizzes.style}` }} className="articles-preview">
-                        <div style={{backgroundColor: `${quizzes.style}` }} className="article-image-container">
-                            <img style={{backgroundColor: `${quizzes.style}` }}className="article-icon" src={ quizzes.icon }  alt="article"></img>
+                    <div style={{backgroundColor: `${quizzes.color}` }} className="articles-preview">
+                        <div style={{backgroundColor: `${quizzes.color}` }} className="article-image-container">
+                            <img style={{backgroundColor: `${quizzes.color}` }}className="article-icon" src={ quizzes.file }  alt="article"></img>
                         </div>
-                        <div style={{backgroundColor: `${quizzes.style}` }} className="article-title-container">
+                        <div style={{backgroundColor: `${quizzes.color}` }} className="article-title-container">
                             { quizzes.title }
                         </div>
                     </div>
