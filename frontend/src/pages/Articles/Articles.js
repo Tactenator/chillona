@@ -4,7 +4,7 @@ import Article from '../../pictures/articles.png';
 
 const Articles = () => {
 
-    const { data: article, isPending, error } = useFetch('http://localhost:4000/articles')
+    const { data: article, isPending, error } = useFetch('https://chillon-api.onrender.com/articles')
 
     return ( 
         <div className="articles">

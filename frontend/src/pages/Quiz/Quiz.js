@@ -30,7 +30,7 @@ const Quiz = () => {
    
 
     const fetchData = async () => {
-        const response = await fetch('http://localhost:4000/quiz/' + id);
+        const response = await fetch('https://chillon-api.onrender.com/' + id);
         const data = await response.json(); 
         console.log(data);
         setLength(data.correctArray.length);

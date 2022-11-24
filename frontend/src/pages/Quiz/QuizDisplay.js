@@ -4,7 +4,7 @@ import Exams from '../../pictures/exams.png';
 
 const Articles = () => {
 
-    const { data: quiz, isPending, error } = useFetch('http://localhost:4000/quiz')
+    const { data: quiz, isPending, error } = useFetch('https://chillon-api.onrender.com/quiz')
 
     if(quiz) console.log(quiz)
     return ( 

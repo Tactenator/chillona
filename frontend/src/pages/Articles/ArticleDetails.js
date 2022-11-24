@@ -5,7 +5,7 @@ const ArticleDetails = () => {
 
     const { id } = useParams();
 
-    const { data: lessons, error, isPending} = useFetch('http://localhost:4000/articles/' + id);
+    const { data: lessons, error, isPending} = useFetch('https://chillon-api.onrender.com' + id);
 
     if(lessons) console.log(lessons)
 
